@@ -1,5 +1,7 @@
 <?php
 
-phpinfo();
 
 ?>
+<img src="DavidBain.jpg"
+  alt="pic of David"
+  />
